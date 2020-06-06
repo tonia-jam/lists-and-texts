@@ -21,3 +21,6 @@ article {
   ul {
     list-style-type: square;
   }
+  .bold {
+    font-weight: bold;
+  }
