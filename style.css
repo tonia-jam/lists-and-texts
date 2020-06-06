@@ -1,0 +1,23 @@
+article {
+    width: 500px;
+  }
+  h1 {
+    color: #E67676;
+    font-size: 30px
+  }
+  h2 {
+    color: #7a46b9;
+  }
+  ol {
+    text-decoration: underline;
+    color: #f01dec;
+    list-style-type: upper-roman;
+  }
+  .black {
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: black;
+  }
+  ul {
+    list-style-type: square;
+  }
