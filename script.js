@@ -10,7 +10,7 @@ let additionalBlock = {
   };
 
 $('body').append(
-    `<h1>${additionalBlock.title}</h1>`,   
+    `<h1>${additionalBlock.title}</h1>`,
     `<p>${additionalBlock.text}</p>`,
 );
 
